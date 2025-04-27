@@ -1,0 +1,4 @@
+br\edu\utfpr\Main.class
+br\edu\utfpr\PessoaDao.class
+br\edu\utfpr\Pessoa.class
+br\edu\utfpr\DatabaseConnection.class
